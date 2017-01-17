@@ -6,12 +6,12 @@ A React Native demo project step-by-step
 
 To run:
 
-  $ npm install
+  `$ npm install`
   
   for iOS
-  $ react-native run-ios
+  `$ react-native run-ios`
   
   for Android
-  $ react-native run-android
+  `$ react-native run-android`
 
 You will need to install the iOS and/or Android SDK to run the apps.
